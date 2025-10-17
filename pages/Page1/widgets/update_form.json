@@ -694,8 +694,7 @@
           "label": "Agencyparent",
           "labelTextSize": "0.875rem",
           "originalIdentifier": "agencyparent",
-          "position": 25,
-          "sourceData": null
+          "position": 25
         },
         "agencyspacecraft": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
@@ -831,8 +830,7 @@
           "label": "Date Of Death",
           "labelTextSize": "0.875rem",
           "originalIdentifier": "date_of_death",
-          "position": 7,
-          "sourceData": null
+          "position": 7
         },
         "first_flight": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
